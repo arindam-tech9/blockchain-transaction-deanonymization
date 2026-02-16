@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+
+# Data files
+data/raw/
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
+    
